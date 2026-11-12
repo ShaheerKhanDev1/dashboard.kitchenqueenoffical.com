@@ -1,0 +1,1 @@
+window.KQData = window.KQData || {};
